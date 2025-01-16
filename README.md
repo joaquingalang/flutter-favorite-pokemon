@@ -1,16 +1,7 @@
-# favorite_pokemon
+# 🔴 Favorite Pokemon ⚪
 
-A simple static flutter app for a mobile development workshop.
+A simple static Flutter app that displays your favorite Pokemon! This application serves as a practice activity for a mobile development workshop led by Google Developer Student Groups on Campus - Holy Angel University.
 
-## Getting Started
+In this activity, the participants must test their understanding of fundamental Flutter Widgets such as Scaffold, Text, Center, Color, and Image. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="150" src="https://github.com/user-attachments/assets/c0bc98b5-ac09-4a2e-a29a-af17beab71af">
